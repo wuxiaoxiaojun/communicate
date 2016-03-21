@@ -7,3 +7,5 @@
 [前端面试问题及答案总结1](https://github.com/callmelaoda/communicate/issues/5)
 
 [前端面试问题及答案总结2](https://github.com/callmelaoda/communicate/issues/6)
+
+[Mac下开启Chrome非安全模式](https://github.com/callmelaoda/communicate/issues/8)
